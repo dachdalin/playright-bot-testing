@@ -1,4 +1,4 @@
-# Playwright Bot Testing
+# Playright Bot Testing
 
 A collection of Playwright-based automation scripts for testing and bot detection evasion techniques.
 
